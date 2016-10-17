@@ -50,7 +50,7 @@ namespace TestGit.Controllers
             {
                 _userManager = value;
             }
-        }
+        }//again
 
         //without author email
         // GET: /Account/Login
