@@ -54,6 +54,7 @@ namespace TestGit.Controllers
 
         //
         // GET: /Account/Login
+        //this is the login method
         [AllowAnonymous]
         public ActionResult Login(string returnUrl)
         {
