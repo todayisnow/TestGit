@@ -52,7 +52,7 @@ namespace TestGit.Controllers
             }
         }
 
-        //
+        //without author email
         // GET: /Account/Login
         //this is the login method
         [AllowAnonymous]
