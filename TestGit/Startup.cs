@@ -5,7 +5,7 @@ using Owin;
 namespace TestGit
 {
     public partial class Startup
-    {
+    {//b1
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
