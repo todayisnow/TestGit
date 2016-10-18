@@ -9,6 +9,6 @@ namespace TestGit
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
-        }
+        }// test oull request
     }
 }
